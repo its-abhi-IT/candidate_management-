@@ -1,0 +1,6 @@
+@InterviewReminder.Job_HostAddress = http://localhost:5022
+
+GET {{InterviewReminder.Job_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

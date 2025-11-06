@@ -1,0 +1,12 @@
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\bin\Debug\net8.0\CandidateManagement.Data.deps.json
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\bin\Debug\net8.0\CandidateManagement.Data.dll
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\bin\Debug\net8.0\CandidateManagement.Data.pdb
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.csproj.AssemblyReference.cache
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.AssemblyInfoInputs.cache
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.AssemblyInfo.cs
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.csproj.CoreCompileInputs.cache
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.dll
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\refint\CandidateManagement.Data.dll
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\CandidateManagement.Data.pdb
+C:\Source\CM\CandidateManagement\CandidateManagement.Data\obj\Debug\net8.0\ref\CandidateManagement.Data.dll

@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "Candidate.API.Controllers.CandidatesController",
+    "Method": "CreateCandidate",
+    "RelativePath": "candidates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidate",
+        "Type": "Candidate.API.Data.DTO.CandidateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Candidate.API.Controllers.CandidatesController",
+    "Method": "GetAllCandidates",
+    "RelativePath": "candidates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Candidate.API.Controllers.CandidatesController",
+    "Method": "UpdateCandidate",
+    "RelativePath": "candidates/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "candidate",
+        "Type": "Candidate.API.Data.DTO.CandidateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Candidate.API.Controllers.CandidatesController",
+    "Method": "GetCandidateById",
+    "RelativePath": "candidates/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

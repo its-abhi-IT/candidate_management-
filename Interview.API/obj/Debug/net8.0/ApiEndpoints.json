@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Interview.API.Controllers.InterviewsController",
+    "Method": "CreateInterview",
+    "RelativePath": "interviews",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "interview",
+        "Type": "Interview.API.Data.DTO.InterviewDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Interview.API.Controllers.InterviewsController",
+    "Method": "GetAllInterviews",
+    "RelativePath": "interviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Interview.API.Controllers.InterviewsController",
+    "Method": "GetInterviewById",
+    "RelativePath": "interviews/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Interview.API.Controllers.InterviewsController",
+    "Method": "SubmitFeedback",
+    "RelativePath": "interviews/{id}/feedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "feedback",
+        "Type": "Interview.API.Data.DTO.FeedbackDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Interview.API.Controllers.InterviewsController",
+    "Method": "GetInterviewsByCandidate",
+    "RelativePath": "interviews/candidate/{candidateId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidateId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

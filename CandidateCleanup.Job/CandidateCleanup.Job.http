@@ -1,0 +1,6 @@
+@CandidateCleanup.Job_HostAddress = http://localhost:5274
+
+GET {{CandidateCleanup.Job_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

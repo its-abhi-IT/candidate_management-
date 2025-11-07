@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateManagement.Core", "CandidateManagement.Core\CandidateManagement.Core.csproj", "{C4B46BDB-C708-489E-A91F-A76E1DCD7669}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CandidateManagement.Dacpac", "CandidateManagement.Dacpac\CandidateManagement.Dacpac.sqlproj", "{629CDBAE-CE28-4B98-A391-A193B04E06DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,12 @@ Global
 		{C4B46BDB-C708-489E-A91F-A76E1DCD7669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4B46BDB-C708-489E-A91F-A76E1DCD7669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4B46BDB-C708-489E-A91F-A76E1DCD7669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629CDBAE-CE28-4B98-A391-A193B04E06DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629CDBAE-CE28-4B98-A391-A193B04E06DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629CDBAE-CE28-4B98-A391-A193B04E06DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{629CDBAE-CE28-4B98-A391-A193B04E06DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629CDBAE-CE28-4B98-A391-A193B04E06DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629CDBAE-CE28-4B98-A391-A193B04E06DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

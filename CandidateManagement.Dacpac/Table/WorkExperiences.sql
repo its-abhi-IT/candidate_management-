@@ -1,0 +1,8 @@
+﻿CREATE TABLE WorkExperiences (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    CandidateId INT NOT NULL,
+    CompanyName NVARCHAR(150) NOT NULL,
+    Role NVARCHAR(100) NOT NULL,
+    StartDate DATETIME2 NOT NULL,
+    EndDate DATETIME2 NULL
+);

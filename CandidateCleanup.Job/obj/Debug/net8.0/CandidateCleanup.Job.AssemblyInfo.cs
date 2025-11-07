@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CandidateCleanup.Job")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce022e8b2c31fd23c49e23729edaff0ad972a00d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1f584748a3bfa09c23c35f8f60a0d71a4eaafe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CandidateCleanup.Job")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CandidateCleanup.Job")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
